@@ -2549,7 +2549,7 @@ bnTrustedModulus.SetHex("");
         block.nVersion = 1;
         block.nTime    = 1516213662;
         block.nBits    = bnProofOfWorkLimit.GetCompact();
-        block.nNonce   = 33941;
+        block.nNonce   = 2339923;
         if (fTestNet)               // No testnet, yet
         {
             block.nTime    = 0;
