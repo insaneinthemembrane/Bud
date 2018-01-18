@@ -29,7 +29,7 @@
 
 
 
-*Sha256d Hybrid, which will yield about 1.2 billion coins over 10+ years.*
+*Sha256d Hybrid, which will yield about 1.35 billion coins over 10+ years.*
 
 
 -----
@@ -68,7 +68,7 @@ Staking       |  1 minute minimum/no maximum    |
 
 
 
-Bud POW Rewards
+Bud POW Rewards (cover mmore than 10 years mining)
 =======================
 
 
@@ -82,7 +82,7 @@ Blocks (up to)        |  Reward     |
 500,000       |  1,500    | 
 999,999       |  100     |
 Total         | 1,225,000,000 | 
-**Total Adjusted (below)**         | **1,200,000,000** | 
+**Total Adjusted (below)**         | **1,350,000,000** | 
 
 
 
@@ -107,7 +107,7 @@ A guess based on experience is that about **400,000,000** maximum will be staked
 
 Paradoxically, this would bring the total coin count at the end of the Hybrid period to about the same as if each block was POW mined, and no blocks POS mined.
 
-
+In addition, however, there is a **150.000,000** premine, which also needs to be added to the total coin coun count.
 
 -----
 
@@ -147,9 +147,15 @@ Blocks Mined *        |  Timeframe     |
 ----
 
 
-
+Premine
+=======================
          
 
+- 150,000,000 BUD
+
+
+
+-----
 
 
 
