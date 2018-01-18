@@ -29,7 +29,7 @@
 
 
 
-*Sha256d Hybrid, with lots of coins.*
+*Sha256d Hybrid, which will yield about 1.2 billion coins over 10+ years.*
 
 
 -----
@@ -81,7 +81,8 @@ Blocks (up to)        |  Reward     |
 200,000       |  2,000  | 
 500,000       |  1,500    | 
 999,999       |  100     |
-**Total**         | **1,225,000,000** | 
+Total         | 1,225,000,000 | 
+**Total Adjusted (below)**         | **1,200,000,000** | 
 
 
 
@@ -96,12 +97,20 @@ Not all blocks will be mined by POW. The Hybrid period is quite long, and the la
 
 At a rough guess,  the ratio should not be more **67% POW** / **33% POS**
 
-As such, the **1,225,000,000** POW figure can be reduced by one third., making a total of **820,750,000**.
+As such, the **1,225,000,000** POW figure can be reduced by one third., making a total of **820,000,000**.
 
-If it is assumed that **80,000,000** is staked in that period, the total coins would be nearer to **900,000,000** at the end of the Hybrid period.
+If it is assumed that **50,000,000** is staked in year-1, over a 10-year period, with compound interest, the figure will climb higher.
+
+However, usually a small proportion of coins are staked over time, with most ending up on exchanges. 
+
+A guess based on experience is that about **400,000,000** maximum will be staked by the end of the Hybrid period.
+
+Paradoxically, this would bring the total coin count at the end of the Hybrid period to about the same as if each block was POW mined, and no blocks POS mined.
+
 
 
 -----
+
 
 Hybrid Timeframe
 =======================
