@@ -38,8 +38,8 @@ map<uint256, CBlockIndex*> mapBlockIndex;
 set<pair<COutPoint, unsigned int> > setStakeSeen;
 libzerocoin::Params* ZCParams;
 
-CBigNum bnProofOfWorkLimit(~uint256(0) >> 16);
-CBigNum bnProofOfStakeLimit(~uint256(0) >> 16);
+CBigNum bnProofOfWorkLimit(~uint256(0) >> 20);
+CBigNum bnProofOfStakeLimit(~uint256(0) >> 20);
 CBigNum bnProofOfWorkLimitTestNet(~uint256(0) >> 16);
 
 static const int64_t nTargetTimespan = 6 * 60;  // 6
@@ -2556,7 +2556,6 @@ bnTrustedModulus.SetHex("");
             block.nNonce   = 0;
         }
         if (true && (block.GetHash() != hashGenesisBlock)) {
-
         // This will figure out a valid hash and Nonce if you're
         // creating a different genesis block:
             uint256 hashTarget = CBigNum().SetCompact(block.nBits).getuint256();
